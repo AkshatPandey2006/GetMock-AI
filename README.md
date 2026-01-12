@@ -85,6 +85,9 @@ GetMock-AI/
 ├── public/               # Static Assets
 ├── vercel.json           # Unified Routing Configuration
 ├── vite.config.js        # Frontend Proxy & Build Config
+├── 1.png                 # Documentation Asset (Landing)
+├── 2.png                 # Documentation Asset (Interview)
+├── 3.png                 # Documentation Asset (Feedback)
 ├── package.json          # Root Dependencies (Type: Module)
 └── README.md             # Documentation
 ```
