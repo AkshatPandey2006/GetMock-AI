@@ -126,9 +126,19 @@ function LandingContent({ onStart }) {
           <button onClick={onStart} className="px-14 py-6 bg-emerald-500 text-black font-black rounded-2xl hover:scale-105 transition-all flex items-center justify-center gap-4 shadow-[0_20px_50px_rgba(16,185,129,0.3)]">
             Start Your Interview <ArrowRight size={20} />
           </button>
-          <button className="px-14 py-6 bg-white/[0.03] border border-white/[0.08] text-white font-black rounded-2xl hover:bg-white/10 transition-all flex items-center justify-center gap-4 backdrop-blur-md">
-            <Play size={18} fill="white" /> Experience Demo
-          </button>
+          <button
+  onClick={() =>
+    window.open(
+      "https://www.youtube.com/watch?v=v5XQAeYzch4",
+      "_blank",
+      "noopener,noreferrer"
+    )
+  }
+  className="px-14 py-6 bg-white/[0.03] border border-white/[0.08] text-white font-black rounded-2xl hover:bg-white/10 transition-all flex items-center justify-center gap-4 backdrop-blur-md"
+>
+  <Play size={18} fill="white" />
+  Experience Demo
+</button>
         </div>
       </section>
 
