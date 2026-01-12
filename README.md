@@ -4,8 +4,7 @@
 [![Live Demo](https://img.shields.io/badge/Demo-Live_App-2ea44f?style=for-the-badge&logo=render)](https://get-mock-ai.vercel.app/)
 [![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Backend](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![Web Framework](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.org/)
-[![Realtime](https://img.shields.io/badge/Realtime-Socket.io-010101?style=for-the-badge&logo=socket.io)](https://socket.io/)
+[![Web Framework](https://img.shields.io/badge/Framework-express.js-000000?style=for-the-badge&logo=express)](https://expressjs.org/)
 
 **Context-Aware Interviewing · High-Fidelity Transcription · Automated Grading**  
 *Built to simulate rigorous FAANG-level resume grilling using Llama 3.1 and Whisper v3.*
@@ -21,7 +20,7 @@ The platform focuses on **High-Stakes Simulation**:
 - Low-Latency Intelligence
 - Zero-Persistence Logic
 
-https://github.com/user-attachments/assets/d6e12bc9-dd59-4e08-b31c-401acd9294ce
+https://github.com/user-attachments/assets/6c2663e5-8524-4f2e-8783-4e0ff2826ade
 
 ---
 
@@ -30,8 +29,11 @@ https://github.com/user-attachments/assets/d6e12bc9-dd59-4e08-b31c-401acd9294ce
 ### Landing Page
 ![Landing Page](./1.png)
 
-### Collaborative Workspace
-![Editor View](./21.png)
+### Interview Window
+![Editor View](./2.png)
+
+### Feedback Report
+![Editor View](./3.png)
 
 ---
 
