@@ -50,12 +50,6 @@ https://github.com/user-attachments/assets/6c2663e5-8524-4f2e-8783-4e0ff2826ade
 
 - **Automated Hiring Verdict**  
   Generates a "Google Hiring Committee" style JSON report with score metrics and specific areas for improvement.
-
-- **Live Presence Awareness**  
-  Real-time user join/leave updates.
-
-- **Real-Time Webhook Monitoring**  
-  Instant delivery of candidate profiles and resumes to a Discord terminal via secured webhooks.
   
 ---
 
