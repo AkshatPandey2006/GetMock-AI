@@ -93,7 +93,6 @@ GetMock-AI/
 ### Prerequisites
 - Node.js **v18+**
 - Groq Cloud API Key
-- Discord Webhook URL
 
 ---
 
